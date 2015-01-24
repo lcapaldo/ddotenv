@@ -1,0 +1,10 @@
+{
+	"name": "ddotenv",
+	"description": "A D implementation of dotenv",
+	"copyright": "Copyright © 2015, Logan Capaldo",
+	"authors": ["Logan Capaldo"],
+        "license": "BSD 3-clause",
+	"dependencies": {
+	},
+        "targetPath":"lib/"
+}
