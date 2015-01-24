@@ -4,7 +4,9 @@
 	"copyright": "Copyright © 2015, Logan Capaldo",
 	"authors": ["Logan Capaldo"],
         "license": "BSD 3-clause",
+        "version": "0.1.0",
+        "targetType": "library",
+        "targetPath": "lib",
 	"dependencies": {
-	},
-        "targetPath":"lib/"
+	}
 }
